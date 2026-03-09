@@ -1,4 +1,4 @@
-# Ruby Learning Log
+# Learning Log
 
 ## 2026-02-07
 - paiza Dランク Ruby
